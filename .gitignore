@@ -9,6 +9,9 @@ __pycache__/
 # API Key/File
 /config.py
 
+#Files not to be track
+/API_Practice.ipynb
+
 # Distribution / packaging
 .Python
 build/
