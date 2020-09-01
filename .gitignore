@@ -11,6 +11,7 @@ __pycache__/
 
 #Files not to be track
 /API_Practice.ipynb
+/random_numbers.ipynb
 
 # Distribution / packaging
 .Python
