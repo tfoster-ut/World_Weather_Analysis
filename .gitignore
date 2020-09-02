@@ -12,6 +12,7 @@ __pycache__/
 #Files not to be track
 /API_Practice.ipynb
 /random_numbers.ipynb
+/Google_Nearby_Search.ipynb
 
 # Distribution / packaging
 .Python
